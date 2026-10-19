@@ -49,6 +49,16 @@ in progress lives — rough edges included.
 
 <br/>
 
+## `$` play
+
+<a href="https://123a-lhw.github.io/neon-siege/">
+  <img alt="NEON SIEGE — 在线试玩" src="./assets/neon-siege.png" width="100%">
+</a>
+
+<sub>↑ 点图直接开玩 — **NEON SIEGE / 霓虹围城**，单文件街机生存射击：自动瞄准，专注走位。<br/>[源码](https://github.com/123a-lhw/neon-siege) · [试玩](https://123a-lhw.github.io/neon-siege/)</sub>
+
+<br/>
+
 ## `$` stack
 
 <div align="center">
