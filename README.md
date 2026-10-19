@@ -87,18 +87,23 @@ in progress lives — rough edges included.
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=123a-lhw&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff">
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123a-lhw&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58a6ff&text_color=8b949e">
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=123a-lhw&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff">
 
 <br/>
 
 <img alt="Streak" src="https://streak-stats.demolab.com?user=123a-lhw&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9">
 
-<br/>
-
-<img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=123a-lhw&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9">
-
 </div>
+
+<!--
+  Uncomment once this account has code repos — the card is empty without
+  language data, so it stays off until there is something to show.
+
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123a-lhw&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58a6ff&text_color=8b949e">
+
+  The activity graph service (github-readme-activity-graph) now returns
+  HTTP 402 for new accounts, so it is intentionally left out.
+-->
 
 <br/>
 
