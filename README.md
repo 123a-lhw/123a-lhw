@@ -87,7 +87,7 @@ in progress lives — rough edges included.
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=123a-lhw&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=123a-lhw&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff">
 
 <br/>
 
